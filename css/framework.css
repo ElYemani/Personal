@@ -1,0 +1,29 @@
+.font-fam-inter{font-family: inter;}
+.font-fam-wall{font-family: wallpoet;}
+.font-bold{font-weight: bold;}
+
+.text-up{text-transform: uppercase;}
+.text-cap{text-transform: capitalize;}
+.text-center{text-align: center;}
+.text-justify{text-align: justify;}
+
+.w-25{width: 25%;}
+.w-50{width: 50%;}
+.w-75{width: 75%;}
+.w-100{width: 100%;}
+
+.h-25{height: 25%;}
+.h-50{height: 50%;}
+.h-75{height: 75%;}
+.h-100{height: 100%;}
+
+.d-flex{display: flex;}
+.d-grid{display: grid;}
+
+.float-left{float: left}
+.float-right{float: right}
+
+.align-center{align-items: center;}
+.justify-center{justify-content: center;}
+
+.white{color: #fff;}
